@@ -1,0 +1,7 @@
+openai
+python-dotenv
+black
+tqdm
+ebooklib
+beautifulsoup4
+lxml
