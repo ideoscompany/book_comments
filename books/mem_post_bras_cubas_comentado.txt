@@ -9380,16 +9380,8 @@ Vi que era impossível separar duas coisas que no espírito dela estavam inteira
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "despeito",
-        "explicacao": "Sentimento de rancor ou ressentimento causado por uma ofensa ou desconsideração."
-      },
-      {
-        "termo": "comoções",
-        "explicacao": "Emoções intensas ou perturbações do espírito."
-      }
-    ]
+    "despeito": "Sentimento de rancor ou ressentimento causado por uma ofensa ou desconsideração.",
+    "comoções": "Emoções intensas ou perturbações do espírito."
   },
   "Comentario": "O parágrafo descreve a complexidade dos sentimentos e dilemas enfrentados pelo narrador em relação a Virgília. Ele reconhece a inseparabilidade entre o amor deles e a consideração pública que ela valoriza, e reflete sobre os sacrifícios que ela estaria disposta a fazer para manter ambas as coisas. O narrador também menciona um breve sentimento de despeito, que logo se dissipa diante das intensas emoções vividas nos últimos dias, culminando na decisão de arranjar uma casa para eles."
 }
@@ -11113,36 +11105,13 @@ No dia seguinte, abro uma folha política e leio a notícia de que, por decretos
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "folha política",
-        "explicacao": "Jornal ou periódico que trata de assuntos políticos."
-      },
-      {
-        "termo": "decretos",
-        "explicacao": "Ordens ou decisões formais emitidas por uma autoridade governamental."
-      },
-      {
-        "termo": "província",
-        "explicacao": "Divisão territorial de um país, similar a um estado ou região."
-      },
-      {
-        "termo": "Gamboa",
-        "explicacao": "Bairro ou localidade, possivelmente no contexto do Rio de Janeiro."
-      },
-      {
-        "termo": "consolações",
-        "explicacao": "Ato de confortar ou aliviar a tristeza de alguém."
-      },
-      {
-        "termo": "objeção",
-        "explicacao": "Argumento ou razão contrária a algo."
-      },
-      {
-        "termo": "lépida",
-        "explicacao": "Ágil, rápida, ligeira."
-      }
-    ]
+    "folha política": "Jornal ou periódico que trata de assuntos políticos.",
+    "decretos": "Ordens ou decisões formais emitidas por uma autoridade governamental.",
+    "província": "Divisão territorial de um país, similar a um estado ou região.",
+    "Gamboa": "Bairro ou localidade, possivelmente no contexto do Rio de Janeiro.",
+    "consolações": "Ato de confortar ou aliviar a tristeza de alguém.",
+    "objeção": "Argumento ou razão contrária a algo.",
+    "lépida": "Ágil, rápida, ligeira."
   },
   "Comentario": "O parágrafo descreve um momento de transição e incerteza para o narrador, que recebe a notícia de uma nomeação política e se prepara para partir. A preocupação com a reação de D. Plácida e a chegada de Virgília, que tenta animá-lo, revelam a complexidade das relações pessoais e das emoções envolvidas. A linguagem utilizada por Machado de Assis é rica e detalhada, refletindo o estilo literário da época."
 }
@@ -11297,16 +11266,8 @@ Isto somente, esta única resposta, que valia para ela o livro dos sete selos. F
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "livro dos sete selos",
-        "explicacao": "Referência bíblica ao Apocalipse, simbolizando algo misterioso e inacessível."
-      },
-      {
-        "termo": "verruga",
-        "explicacao": "Pequena protuberância na pele, geralmente causada por um vírus."
-      }
-    ]
+    "livro dos sete selos": "Referência bíblica ao Apocalipse, simbolizando algo misterioso e inacessível.",
+    "verruga": "Pequena protuberância na pele, geralmente causada por um vírus."
   },
   "Comentario": "O parágrafo aborda crenças populares e superstições que influenciam o comportamento da personagem desde a infância. A 'certeza do mal' sem explicação reflete a aceitação passiva de tradições, enquanto a superstição sobre apontar estrelas revela um conhecimento específico e concreto, mostrando como diferentes tipos de crenças são internalizados de maneiras distintas."
 }
@@ -11953,48 +11914,16 @@ Há tempos, no Passeio Público, tomei-lhe de empréstimo
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "Passeio Público",
-        "explicacao": "Um parque ou área pública para lazer, comum em cidades antigas."
-      },
-      {
-        "termo": "restituí-lo",
-        "explicacao": "Devolver algo a alguém."
-      },
-      {
-        "termo": "monseigneur",
-        "explicacao": "Termo francês que significa 'meu senhor', usado como título de respeito."
-      },
-      {
-        "termo": "c'est la misère",
-        "explicacao": "Expressão francesa que significa 'é a miséria', usada para indicar uma situação difícil."
-      },
-      {
-        "termo": "caducas",
-        "explicacao": "Velhas, gastas, em estado de decadência."
-      },
-      {
-        "termo": "envergo",
-        "explicacao": "Vestir ou usar uma peça de roupa."
-      },
-      {
-        "termo": "sobrecasaca",
-        "explicacao": "Tipo de casaco longo, usado principalmente no século XIX."
-      },
-      {
-        "termo": "noite dos tempos",
-        "explicacao": "Expressão que significa um tempo muito antigo, quase esquecido."
-      },
-      {
-        "termo": "cedi",
-        "explicacao": "Desisti ou entreguei algo."
-      },
-      {
-        "termo": "degrau da escada de S. Francisco",
-        "explicacao": "Referência a um local específico, possivelmente uma escada em uma igreja ou convento de São Francisco."
-      }
-    ]
+    "Passeio Público": "Um parque ou área pública para lazer, comum em cidades antigas.",
+    "restituí-lo": "Devolver algo a alguém.",
+    "monseigneur": "Termo francês que significa 'meu senhor', usado como título de respeito.",
+    "c'est la misère": "Expressão francesa que significa 'é a miséria', usada para indicar uma situação difícil.",
+    "caducas": "Velhas, gastas, em estado de decadência.",
+    "envergo": "Vestir ou usar uma peça de roupa.",
+    "sobrecasaca": "Tipo de casaco longo, usado principalmente no século XIX.",
+    "noite dos tempos": "Expressão que significa um tempo muito antigo, quase esquecido.",
+    "cedi": "Desisti ou entreguei algo.",
+    "degrau da escada de S. Francisco": "Referência a um local específico, possivelmente uma escada em uma igreja ou convento de São Francisco."
   },
   "Comentario": "O parágrafo apresenta uma narrativa em tom de confissão e humor, onde o narrador devolve um relógio emprestado, mas não o mesmo, e comenta sobre as mudanças em sua vida desde o último encontro com o destinatário. A linguagem é rica e formal, com uso de expressões francesas e referências a elementos do passado, o que é característico do estilo de Machado de Assis."
 }
@@ -12292,36 +12221,14 @@ O marido mostrou-lhe a carta, logo que ela se restabeleceu. Era anônima e denun
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "restabeleceu",
-        "explicacao": "Recuperou-se, voltou ao estado normal de saúde."
-      },
-      {
-        "termo": "anônima",
-        "explicacao": "Sem identificação do autor, sem assinatura."
-      },
-      {
-        "termo": "denunciava-nos",
-        "explicacao": "Acusava-nos, revelava algo negativo sobre nós."
-      },
-      {
-        "termo": "precavê-lo",
-        "explicacao": "Adverti-lo, avisá-lo para que tome cuidado."
-      },
-      {
-        "termo": "intimidade",
-        "explicacao": "Relação próxima e pessoal, familiaridade."
-      },
-      {
-        "termo": "calúnia",
-        "explicacao": "Acusação falsa e maliciosa, difamação."
-      }
-    ]
+    "restabeleceu": "Recuperou-se, voltou ao estado normal de saúde.",
+    "anônima": "Sem identificação do autor, sem assinatura.",
+    "denunciava-nos": "Acusava-nos, revelava algo negativo sobre nós.",
+    "precavê-lo": "Adverti-lo, avisá-lo para que tome cuidado.",
+    "intimidade": "Relação próxima e pessoal, familiaridade.",
+    "calúnia": "Acusação falsa e maliciosa, difamação."
   },
-  "Comentario": {
-    "texto": "O parágrafo descreve um momento de tensão e conflito, onde o marido mostra à esposa uma carta anônima que os denuncia. A carta sugere uma suspeita pública sobre a intimidade entre o narrador e Virgília, o que provoca uma reação indignada de Virgília, que nega as acusações como sendo calúnias infames."
-  }
+  "Comentario": "O parágrafo descreve um momento de tensão e conflito, onde o marido mostra à esposa uma carta anônima que os denuncia. A carta sugere uma suspeita pública sobre a intimidade entre o narrador e Virgília, o que provoca uma reação indignada de Virgília, que nega as acusações como sendo calúnias infames."
 }
 ```
 
@@ -12914,16 +12821,8 @@ Era ele. D. Plácida abriu-lhe a porta com muitas exclamações de pasmo: -- O s
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "pasmo",
-        "explicacao": "estado de grande surpresa ou espanto"
-      },
-      {
-        "termo": "Yayá",
-        "explicacao": "forma carinhosa e informal de se referir a uma jovem senhora ou menina"
-      }
-    ]
+    "pasmo": "estado de grande surpresa ou espanto",
+    "Yayá": "forma carinhosa e informal de se referir a uma jovem senhora ou menina"
   },
   "Comentario": "O parágrafo descreve a chegada inesperada de um visitante à casa de D. Plácida, que o recebe com grande surpresa e entusiasmo. A anfitriã expressa sua alegria e curiosidade, sugerindo que o visitante veio especificamente para ver alguém chamado Yayá, uma figura que parece ser importante para ambos."
 }
@@ -13305,20 +13204,9 @@ Meu espírito, (permitam-me aqui uma comparação de criança!) meu espírito er
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "catre",
-        "explicacao": "Cama simples e rústica, geralmente de madeira."
-      },
-      {
-        "termo": "corpo da guarda",
-        "explicacao": "Local onde ficam os guardas ou soldados de uma guarnição."
-      },
-      {
-        "termo": "xadrez",
-        "explicacao": "Cadeia ou prisão."
-      }
-    ]
+    "catre": "Cama simples e rústica, geralmente de madeira.",
+    "corpo da guarda": "Local onde ficam os guardas ou soldados de uma guarnição.",
+    "xadrez": "Cadeia ou prisão."
   },
   "Comentario": "O parágrafo descreve a adaptação gradual de uma pessoa a condições de vida cada vez mais precárias, culminando em dormir na rua. A narrativa sugere uma resignação e aceitação das circunstâncias adversas, destacando a capacidade humana de se ajustar a diferentes níveis de conforto e segurança."
 }
@@ -13370,28 +13258,11 @@ Uma semana depois, o Lobo Neves foi nomeado presidente de província. Agarrei-me
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "província",
-        "explicação": "Região administrativa de um país, similar a um estado ou distrito."
-      },
-      {
-        "termo": "decreto",
-        "explicação": "Ordem ou decisão oficial emitida por uma autoridade governamental."
-      },
-      {
-        "termo": "substância",
-        "explicação": "Essência ou natureza fundamental de algo."
-      },
-      {
-        "termo": "diabólica",
-        "explicação": "Relativo ao diabo; algo maligno ou perverso."
-      },
-      {
-        "termo": "molas",
-        "explicação": "Mecanismos ou forças que impulsionam ou motivam algo."
-      }
-    ]
+    "província": "Região administrativa de um país, similar a um estado ou distrito.",
+    "decreto": "Ordem ou decisão oficial emitida por uma autoridade governamental.",
+    "substância": "Essência ou natureza fundamental de algo.",
+    "diabólica": "Relativo ao diabo; algo maligno ou perverso.",
+    "molas": "Mecanismos ou forças que impulsionam ou motivam algo."
   },
   "Comentario": "O parágrafo descreve um momento de tensão e alívio para o narrador, que se vê preocupado com a nomeação de Lobo Neves como presidente de província. A preocupação do narrador está ligada a uma superstição com a data do decreto, que ao ser emitido com uma data diferente, elimina seu temor. A reflexão final sobre as 'molas da vida' sugere uma contemplação sobre as forças e circunstâncias que movem os eventos da existência."
 }
@@ -14483,28 +14354,11 @@ O epitáfio diz tudo. Vale mais do que se lhes narrasse a moléstia de Nhã-lol�
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "epitáfio",
-        "explicação": "Inscrição em lápide ou monumento funerário que homenageia o falecido."
-      },
-      {
-        "termo": "moléstia",
-        "explicação": "Doença ou enfermidade."
-      },
-      {
-        "termo": "Nhã-loló",
-        "explicação": "Forma carinhosa e familiar de tratamento, possivelmente um apelido."
-      },
-      {
-        "termo": "jazigo",
-        "explicação": "Túmulo ou sepultura."
-      },
-      {
-        "termo": "deveras",
-        "explicação": "Realmente, de fato."
-      }
-    ]
+    "epitáfio": "Inscrição em lápide ou monumento funerário que homenageia o falecido.",
+    "moléstia": "Doença ou enfermidade.",
+    "Nhã-loló": "Forma carinhosa e familiar de tratamento, possivelmente um apelido.",
+    "jazigo": "Túmulo ou sepultura.",
+    "deveras": "Realmente, de fato."
   },
   "Comentario": "O parágrafo reflete a concisão e a profundidade emocional característica de Machado de Assis. O narrador descreve a morte de Nhã-loló de forma sucinta, destacando a importância do epitáfio como resumo da vida e morte dela. A menção à febre amarela contextualiza historicamente o evento, enquanto a reflexão final sobre a ausência de lágrimas e a dúvida sobre o amor verdadeiro adiciona uma camada de complexidade psicológica ao texto."
 }
