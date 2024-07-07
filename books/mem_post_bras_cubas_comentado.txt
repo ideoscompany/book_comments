@@ -1119,8 +1119,7 @@ Pandora?
   "Palavras": {
     "palavra": [
       {
-        "termo": "tremes",
-        "explicacao": "Forma arcaica de 'tremer', usada na segunda pessoa do singular do presente do indicativo."
+        "tremes": "Forma arcaica de 'tremer', usada na segunda pessoa do singular do presente do indicativo."
       }
     ]
   },
@@ -1853,20 +1852,9 @@ Não digo nada de minha tia materna, D. Emerenciana, e aliás era a pessoa que m
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "rutilantes",
-        "explicacao": "Brilhantes, resplandecentes."
-      },
-      {
-        "termo": "arruído",
-        "explicacao": "Barulho, ruído."
-      },
-      {
-        "termo": "frouxidão",
-        "explicacao": "Falta de firmeza ou de força; fraqueza."
-      }
-    ]
+    "rutilantes": "Brilhantes, resplandecentes.",
+    "arruído": "Barulho, ruído.",
+    "frouxidão": "Falta de firmeza ou de força; fraqueza."
   },
   "Comentario": "O parágrafo descreve a influência e a convivência do narrador com seus parentes, destacando a figura de sua tia materna, D. Emerenciana, que tinha grande autoridade sobre ele, mas que viveu pouco tempo em sua companhia. O narrador menciona que outros parentes e íntimos não tiveram uma vida comum com ele, mas sim intermitente, com grandes períodos de separação. Ele enfatiza a vulgaridade dos caracteres, o amor pelas aparências brilhantes, o barulho, a fraqueza de vontade e o domínio do capricho no ambiente doméstico. A metáfora final sugere que, apesar desse ambiente desfavorável, algo de valor (a 'flor') conseguiu surgir."
 }
@@ -3236,12 +3224,7 @@ A bordo
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "tísica",
-        "explicacao": "Referente à tuberculose, uma doença infecciosa que afeta principalmente os pulmões."
-      }
-    ]
+      "tísica": "Referente à tuberculose, uma doença infecciosa que afeta principalmente os pulmões."
   },
   "Comentario": "O parágrafo descreve a composição dos passageiros de um navio, destacando a diversidade de perfis entre eles, desde um homem doido até comerciantes e criados. O narrador menciona a recomendação de seu pai para que ele se apresentasse a todos, começando pelo capitão, que estava preocupado com a saúde de sua esposa, gravemente doente com tuberculose."
 }
@@ -3331,16 +3314,8 @@ Não me lembro o que lhe disse; lembro-me que ele me apertou a mão com muita fo
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "recitar",
-        "explicacao": "Declamar ou ler em voz alta, geralmente poesia ou texto literário."
-      },
-      {
-        "termo": "soneto",
-        "explicacao": "Forma poética composta por 14 versos, geralmente distribuídos em dois quartetos e dois tercetos."
-      }
-    ]
+    "recitar": "Declamar ou ler em voz alta, geralmente poesia ou texto literário.",
+    "soneto": "Forma poética composta por 14 versos, geralmente distribuídos em dois quartetos e dois tercetos."
   },
   "Comentario": "O parágrafo descreve uma interação entre o narrador e outro personagem, que expressa gratidão apertando a mão do narrador e recitando sonetos. A cena é interrompida por um chamado da esposa do personagem, mas ele ainda assim recita um terceiro soneto com dedicação. A passagem destaca a importância da poesia e a intensidade emocional do momento."
 }
@@ -3435,20 +3410,9 @@ Fui vê-la; achei-a, na verdade, quase moribunda, mas falando ainda de descansar
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "fraqueza",
-        "explicacao": "Falta de força física ou moral; debilidade."
-      },
-      {
-        "termo": "fitou",
-        "explicacao": "Olhou fixamente; encarou."
-      },
-      {
-        "termo": "cova",
-        "explicacao": "Buraco cavado na terra, geralmente para enterrar algo ou alguém."
-      }
-    ]
+    "fraqueza": "Falta de força física ou moral; debilidade.",
+    "fitou": "Olhou fixamente; encarou.",
+    "cova": "Buraco cavado na terra, geralmente para enterrar algo ou alguém."
   },
   "Comentario": "O parágrafo descreve a reação de um personagem à morte de uma mulher, destacando sua serenidade e força ao lidar com a situação. Ele se esforça para não demonstrar fraqueza, adotando uma postura firme e contemplativa ao olhar para o horizonte. A menção à cova que 'nunca mais se abre' sugere a irreversibilidade da morte e a aceitação do destino final."
 }
@@ -3969,16 +3933,8 @@ Triste capítulo; passemos a outro mais alegre.
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "capítulo",
-        "explicação": "Seção ou divisão de um livro ou documento."
-      },
-      {
-        "termo": "passemos",
-        "explicação": "Forma verbal de 'passar', no subjuntivo, indicando uma sugestão ou convite para mudar de assunto."
-      }
-    ]
+    "capítulo": "Seção ou divisão de um livro ou documento.",
+    "passemos": "Forma verbal de 'passar', no subjuntivo, indicando uma sugestão ou convite para mudar de assunto."
   },
   "Comentario": "O parágrafo sugere uma transição de um tema triste para um mais alegre, indicando uma mudança de tom ou assunto na narrativa."
 }
@@ -4583,20 +4539,10 @@ Aí tem o leitor, em poucas linhas, o retrato físico e moral da pessoa que devi
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "influir",
-        "explicacao": "influenciar, exercer influência sobre algo ou alguém."
-      },
-      {
-        "termo": "rabugento",
-        "explicacao": "mal-humorado, irritadiço, que reclama com frequência."
-      }
-    ]
+    "influir": "influenciar, exercer influência sobre algo ou alguém.",
+    "rabugento": "mal-humorado, irritadiço, que reclama com frequência."
   },
-  "Comentario": {
-    "texto": "O parágrafo apresenta uma reflexão do narrador sobre a influência de uma pessoa em sua vida e a mudança na linguagem ao longo do tempo. Ele se dirige diretamente a Virgília, uma figura amada, e assegura que sua sinceridade permanece inalterada, mesmo após a morte. A passagem destaca a constância dos sentimentos e a percepção das mudanças linguísticas."
-  }
+  "Comentario": "O parágrafo apresenta uma reflexão do narrador sobre a influência de uma pessoa em sua vida e a mudança na linguagem ao longo do tempo. Ele se dirige diretamente a Virgília, uma figura amada, e assegura que sua sinceridade permanece inalterada, mesmo após a morte. A passagem destaca a constância dos sentimentos e a percepção das mudanças linguísticas."
 }
 ```
 
@@ -7668,20 +7614,9 @@ VIRGÍLIA
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "suscintamente",
-        "explicacao": "De forma breve e concisa."
-      },
-      {
-        "termo": "delimitado",
-        "explicacao": "Definido ou marcado por limites."
-      },
-      {
-        "termo": "aninhadas",
-        "explicacao": "Organizadas em camadas ou níveis, como em um ninho."
-      }
-    ]
+    "suscintamente": "De forma breve e concisa.",
+    "delimitado": "Definido ou marcado por limites.",
+    "aninhadas": "Organizadas em camadas ou níveis, como em um ninho."
   }
 }
 ```
@@ -7900,23 +7835,13 @@ Calou-se, profundamente abatido, com os olhos no ar, parecendo não ouvir coisa 
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "calou-se",
-        "explicacao": "Ficou em silêncio; deixou de falar."
-      },
-      {
-        "termo": "ponderar",
-        "explicacao": "Considerar ou refletir sobre algo com cuidado."
-      },
-      {
-        "termo": "chasquear",
-        "explicacao": "Zombar ou fazer troça de alguém ou algo."
-      }
-    ]
+    "calou-se": "Ficou em silêncio; deixou de falar.",
+    "ponderar": "Considerar ou refletir sobre algo com cuidado.",
+    "chasquear": "Zombar ou fazer troça de alguém ou algo."
   },
   "Comentario": "O parágrafo descreve um momento de introspecção e conflito interno do personagem Lobo Neves, que, após um desabafo, tenta retomar a compostura diante de outras pessoas. A narrativa destaca a dualidade entre o estado emocional verdadeiro do personagem e a fachada social que ele apresenta, evidenciando a complexidade das emoções humanas e a pressão para manter as aparências."
 }
+
 ```
 
 CAPÍTULO LIX
@@ -8426,20 +8351,9 @@ Saí de casa, mas era cedo; iria achá-los à mesa. Outra vez pensei no Quincas 
 ```json
 {
   "Palavras": {
-    "palavra": [
-      {
-        "termo": "achá-los",
-        "explicacao": "Encontrá-los."
-      },
-      {
-        "termo": "regenerar",
-        "explicacao": "Recuperar ou restaurar a condição original ou melhorada de algo ou alguém."
-      },
-      {
-        "termo": "indaguei",
-        "explicacao": "Perguntei ou inquiri."
-      }
-    ]
+    "achá-los": "Encontrá-los.",
+    "regenerar": "Recuperar ou restaurar a condição original ou melhorada de algo ou alguém.",
+    "indaguei": "Perguntei ou inquiri."
   },
   "Comentario": "O parágrafo descreve um momento de reflexão e ação do narrador, que sai de casa com a intenção de encontrar alguém, possivelmente à mesa. Ele pensa em Quincas Borba e sente uma necessidade urgente de vê-lo no Passeio Público, com a intenção de regenerá-lo. No entanto, ao chegar lá, não o encontra e, ao indagar ao guarda, descobre que Quincas Borba costuma passar por ali ocasionalmente. O trecho revela a preocupação e o desejo do narrador de ajudar Quincas Borba, além de mostrar a incerteza e a busca por alguém importante para ele."
 }

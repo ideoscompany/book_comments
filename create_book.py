@@ -118,7 +118,6 @@ def create_epub(book_parts, output_file):
 
         if idx in (20, 22):
             paragraph = "<strong>Parágrafo:</strong> " + paragraph
-            paragraph = "<strong>Parágrafo:</strong> " + paragraph
 
         enriched_intro_paragraphs.append(paragraph.replace("\n", "<br/>"))
         if json_objects:
